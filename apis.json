@@ -1,0 +1,74 @@
+{
+    "name": "PushBots",
+    "description": "PushBots is a free push notifications service for mobile apps native and hybrid.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1796-pushbots.jpg",
+    "tags": [
+        "have api",
+        "networks",
+        "notifications",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pushbots\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PushBots",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1796-pushbots.jpg",
+            "humanURL": "https:\/\/pushbots.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pushbots-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.pushbots.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.pushbots.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.pushbots.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pushbots"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pushbots"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/pushbots.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "help@pushbots.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/pushbots.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PushBots"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pushbots.com"
+        }
+    ]
+}
